@@ -6,7 +6,7 @@
 **Latest version:** `0.7b`
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/toohighonthehog/WhisperJAV/blob/main/notebook/WhisperJAV_v0_7b-rj.ipynb)  
-**Latest version:** `0.7b-rj`
+**Latest version:** `0.7b-rj (automatically unassign)`
 
 
 
